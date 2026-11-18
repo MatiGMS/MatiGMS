@@ -1,18 +1,12 @@
-<!-- Banner superior animado (puedes cambiar el texto en la URL) -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+# ¡Hola! Soy Matías García 👋
 
-<!-- Texto animado estilo máquina de escribir -->
-<div align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</div>
+**Desarrollador e Implementador de Software** en **[KPI+](https://kpimas.com)** *(Partner Oficial de Odoo en Latinoamérica)* 🇦🇷  
+Certificado Funcional en **Odoo v19** 🚀
 
-<br/>
+---
 
-<!-- Botones/Insignias típicos de contacto y redes sociales -->
+### 🌐 Conectemos
+
 <div align="center">
   <a href="https://www.linkedin.com/in/matigm" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
@@ -31,10 +25,11 @@
 
 ```javascript
 const perfil = {
-  nombre: "Matias",
+  nombre: "Matías",
   rol: "Desarrollador e implementador de Software",
   ubicacion: "Buenos Aires, Argentina 🇦🇷",
   trabajandoEn: "KPI+ Partner Oficial de Odoo en Latinoamérica",
+  certificaciones: ["Odoo v19 Functional Certification"],
   aprendiendo: ["TypeScript", "Docker", "Arquitectura Cloud"],
   datoCurioso: "Funciono a base de café ☕ y buen código"
 };
@@ -45,20 +40,15 @@ const perfil = {
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev" />
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165em" src="https://vercel.app" />
-  <img height="165em" src="https://vercel.app" />
-</div>
-
-<div align="center">
-  <img src="https://demolab.com" alt="Racha en Github" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Odoo v19" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="XML" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Linux" />
 </div>
 
 ---
@@ -67,11 +57,12 @@ const perfil = {
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[odoo19-customs](https://github.com/MatiGMS/odoo19-customs)** | Módulos personalizados que solucionan problemas reales para Odoo v19 | `Python` `js` `XML` |
+| **[odoo19-customs](https://github.com/MatiGMS/odoo19-customs)** | Módulos personalizados que solucionan problemas reales para Odoo v19 | `Python` `JS` `XML` |
 
 ---
 
-<!-- Banner inferior de cierre -->
+### 📊 Estadísticas de GitHub
+
 <div align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://demolab.com" alt="Racha en GitHub" />
 </div>
