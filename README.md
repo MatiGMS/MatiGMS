@@ -13,8 +13,6 @@
 
 ---
 
----
-
 ### 🛠️ Tecnologías y Herramientas
 
 | Área | Stack |
