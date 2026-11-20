@@ -1,6 +1,6 @@
-# ¡Hola! Soy Matías García 👋
+# Matias García 👋
 
-**Desarrollador e Implementador de Software** en **[KPI+](https://kpimas.com)** *(Partner Oficial de Odoo en Latinoamérica)* 🇦🇷  
+**Desarrollador e Implementador de Software** en **[KPI+](https://kpimas.com)** *(Partner Oficial de Odoo en Latinoamérica)*   
 🎓 **Certificado Funcional en Odoo v19**
 
 ---
@@ -23,7 +23,6 @@ const perfil = {
   trabajandoEn: "KPI+ Partner Oficial de Odoo en Latinoamérica",
   certificaciones: ["Odoo v19 Functional Certification"],
   aprendiendo: ["TypeScript", "Docker", "Arquitectura Cloud"],
-  datoCurioso: "Funciono a base de café ☕ y buen código"
 };
 ```
 
