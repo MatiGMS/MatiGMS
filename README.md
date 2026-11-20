@@ -13,19 +13,6 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-
-```javascript
-const perfil = {
-  nombre: "Matías",
-  rol: "Desarrollador e Implementador de Software",
-  ubicacion: "Buenos Aires, Argentina 🇦🇷",
-  trabajandoEn: "KPI+ Partner Oficial de Odoo en Latinoamérica",
-  certificaciones: ["Odoo v19 Functional Certification"],
-  aprendiendo: ["TypeScript", "Docker", "Arquitectura Cloud"],
-};
-```
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
